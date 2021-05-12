@@ -1,3 +1,2 @@
-# comp140_sdl_pong_game
-Base repository for worksheet C
+# CHICK N DUCK
 KELOMPOK 3 PEMROGRAMAN GIM (CHICK N DUCK)
